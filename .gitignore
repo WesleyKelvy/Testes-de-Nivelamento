@@ -1,0 +1,20 @@
+# Arquivos e diretórios do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+venv/
+Teste-1-e-2/venv/
+Teste-4/venv/
+
+# Diretórios específicos
+Teste-3/demonstracoes_contabeis/
+
+# Cache e configurações do pytest
+.pytest_cache/
+Teste-4/api/.pytest_cache/
+
+# Node.js e Vue.js
+node_modules/
